@@ -1,0 +1,13 @@
+lane_id,lane_name,origin_city,origin_state,origin_lat,origin_lon,dest_city,dest_state,dest_country,dest_lat,dest_lon,distance_miles,is_port_origin,is_winter_exposed,is_cross_border
+L01,"Los Angeles, CA -> Chicago, IL",Los Angeles,CA,34.05,-118.24,Chicago,IL,US,41.88,-87.63,2015,0,1,0
+L02,"Los Angeles, CA -> Dallas, TX",Los Angeles,CA,34.05,-118.24,Dallas,TX,US,32.78,-96.8,1435,0,0,0
+L03,"Los Angeles, CA -> Phoenix, AZ",Los Angeles,CA,34.05,-118.24,Phoenix,AZ,US,33.45,-112.07,373,0,0,0
+L04,"Los Angeles, CA -> Denver, CO",Los Angeles,CA,34.05,-118.24,Denver,CO,US,39.74,-104.99,1020,0,1,0
+L05,"Los Angeles, CA -> Atlanta, GA",Los Angeles,CA,34.05,-118.24,Atlanta,GA,US,33.75,-84.39,2175,0,0,0
+L06,"Los Angeles, CA -> Seattle, WA",Los Angeles,CA,34.05,-118.24,Seattle,WA,US,47.61,-122.33,1135,0,1,0
+L07,"Long Beach, CA -> Memphis, TN",Long Beach,CA,33.77,-118.19,Memphis,TN,US,35.15,-90.05,1800,1,0,0
+L08,"Long Beach, CA -> Columbus, OH",Long Beach,CA,33.77,-118.19,Columbus,OH,US,39.96,-83.0,2240,1,1,0
+L09,"Oakland, CA -> Salt Lake City, UT",Oakland,CA,37.8,-122.27,Salt Lake City,UT,US,40.76,-111.89,740,1,1,0
+L10,"Chicago, IL -> New York, NY",Chicago,IL,41.88,-87.63,New York,NY,US,40.71,-74.01,790,0,1,0
+L11,"Dallas, TX -> Atlanta, GA",Dallas,TX,32.78,-96.8,Atlanta,GA,US,33.75,-84.39,780,0,0,0
+L12,"Los Angeles, CA -> Toronto, ON",Los Angeles,CA,34.05,-118.24,Toronto,ON,CA,43.65,-79.38,2520,0,1,1

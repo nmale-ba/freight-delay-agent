@@ -1,0 +1,15 @@
+# Predictive Freight Cost & Delay Agent - Python dependencies
+# Install with:  python -m pip install -r requirements.txt
+
+# Phase 1 + 3: data generation, external APIs
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+
+# Optional Python loader for Azure SQL (no ODBC driver needed)
+pymssql>=2.2.11
+
+# Phase 2: prediction engine
+scikit-learn>=1.3
+xgboost>=2.0
+joblib>=1.3

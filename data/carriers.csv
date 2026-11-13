@@ -1,0 +1,7 @@
+carrier_id,carrier_name,mode,country,quote_currency,base_rate_per_mile,reliability_baseline,data_source
+C01,Pacific Crest Freight,FTL,US,USD,2.35,0.93,SYNTHETIC
+C02,Redline Logistics,FTL,US,USD,2.05,0.85,SYNTHETIC
+C03,Summit Ridge Transport,FTL,US,USD,2.2,0.9,SYNTHETIC
+C04,Ironhorse Carriers,FTL,US,USD,1.85,0.78,SYNTHETIC
+C05,Bluewater Intermodal,Intermodal,US,USD,1.7,0.88,SYNTHETIC
+C06,Maple Leaf Haulage,FTL,CA,CAD,3.05,0.89,SYNTHETIC
